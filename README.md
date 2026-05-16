@@ -1,4 +1,4 @@
-# TechNova Ltd — GRC Audit Project
+# TechNova Ltd: GRC Audit Project
 
 **Role:** Lead Auditor / GRC Analyst (Personal Project)
 **Scope:** Simulated mid-size SaaS company (With approx 200 employees, cloud-first infrastructure)
