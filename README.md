@@ -4,11 +4,10 @@
 **Scope:** Simulated mid-size SaaS company (With approx 200 employees, cloud-first infrastructure)
 **Frameworks:** ISO 27001:2022 · ISO 27005:2022 · NIST CSF 2.0 · ISO 31000:2018 · COBIT 2019
 
-## Background
-
+## Introduction
 This is a personal portfolio project where I've conducted an end-to-end GRC audit against a fictional company, TechNova Ltd. TechNova is a cloud-native B2B SaaS company offering project management software. They process client data on AWS and have around 200 employees across the UK and also Poland.
 
-I wanted to go through the full lifecycle — scoping, gap analysis, risk assessment, controls mapping, and reporting — the same way I would in a real engagement. The intent is that every workpaper here represents something I'd be comfortable defending in a client meeting or an internal audit committee.
+I wanted to go through the full lifecycle: scoping, gap analysis, risk assessment, controls mapping, and reporting, the same way I would in a real engagement. The intent is that every workpaper here represents something I'd be comfortable defending in a client meeting or an internal audit committee.
 
 ## Company Profile (Fictional)
 
