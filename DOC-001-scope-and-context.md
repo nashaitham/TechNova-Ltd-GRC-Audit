@@ -1,7 +1,7 @@
 # Audit Scope & Organisational Context
 **Document:** GRC-DOC-001
-**Version:** 1.0
-**Date:** 28 March 2026
+**Version:** 1.1
+**Date last revised:** 16 May 2026
 **Author:** N.Haitham
 **Review:** Self-reviewed (portfolio project)
 
@@ -13,13 +13,13 @@ This document establishes the scope, boundaries, and organisational context for 
 
 ### 2.1 Understanding the Organisation
 
-TechNova Ltd is a cloud-native B2B SaaS business. Their core product is a project management platform used by SMEs and a small number of UK public sector clients. The business is venture-backed and growing fast, which means security controls have historically been reactive rather than proactive.
+TechNova Ltd is a cloud-native B2B SaaS business. Their core product is a project management platform used by SMEs and a small number of UK public sector clients. The business is venture-backed and is growing fast, which means security controls have historically been heavily reactive rather than proactive or planned.
 
 **Key internal factors:**
-- Rapid headcount growth (40% YoY) — onboarding and offboarding processes are immature, and not well established
+- Rapid headcount growth (40% YoY), onboarding and offboarding processes are immature, and not well established
 - Engineering-heavy culture; security seen as a blocker by some teams, rather than something that is crucial
 - No dedicated CISO; CTO owns security alongside engineering responsibilities, leading to security sometimes falling behind/ being neglected
-- Recent SOC 2 Type I passed (external) — some foundational controls exist
+- Recent SOC 2 Type I passed (external), although some foundational controls exist
 - AWS infrastructure managed by a 4-person platform/DevOps team
 
 **Key external factors:**
